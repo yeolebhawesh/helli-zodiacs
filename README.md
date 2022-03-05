@@ -1,1 +1,1 @@
-# helli-zodiacs
+# hello-zodiacs
